@@ -14,9 +14,9 @@
 
 | 文档 | 简介 |
 | :--- | :--- |
-| **[数据漏斗](./docs/data-funnel)** | 如何使用数据漏斗 |
-| **[用户行为指标](./docs/user-behavior-metrics)** | 观测用户行为的指标有哪些 |
-| **[用户生命周期](./docs/user-lifecycle)** | 用户生命周期概述，如何利用生命周期理论 |
+| **[数据漏斗](./docs/data-funnel.md)** | 如何使用数据漏斗 |
+| **[用户行为指标](./docs/user-behavior-metrics.md)** | 观测用户行为的指标有哪些 |
+| **[用户生命周期](./docs/user-lifecycle.md)** | 用户生命周期概述，如何利用生命周期理论 |
 
 ## 📖 个人分析文档
 
